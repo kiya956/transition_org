@@ -1,0 +1,5 @@
+sample (0.1) jammy; urgency=medium
+
+  * first sample test
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 09:06:13 +0800
